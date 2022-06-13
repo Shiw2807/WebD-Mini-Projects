@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+#logo{
+    display: inline-block;
+    position: absolute;
+    left: 18px;
+    top: 18px;
+}
+
+#logo img{
+    display: block;
+    margin: auto;
+    width: 55px;
+}
+
+body{
+    background-color: rgb(234, 231, 231);
+    color: rgba(27, 26, 26, 0.749);
+    font-family: "Muli", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.container{
+    background-color: rgb(203, 225, 222);
+    padding: 20px 40px;
+    border-radius: 20px;
+    height: 500px;
+    width: 380x;
+
+}
+
+.container h1{
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 200;
+}
+
+.container a{
+    text-decoration: none;
+    color: #2bafa0;
+}
+
+.container a:hover{
+    color: #075E54;
+    cursor: pointer;
+}
+.btn{
+    cursor: pointer;
+    height: 50px;
+    display: inline-block;
+    font-family: inherit;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 20px;
+    border: 0;
+    background-color: #117f72;
+    color: white;
+    border-radius: 8px;
+}
+
+.btn:focus{
+    outline: 0;
+}
+
+.btn:active{
+    margin-top: 30px;
+}
+
+.btn:hover{
+    background-color: #075E54;
+    color: white;
+    box-shadow: none;
+}
+.text{
+    margin-top: 30px;
+}
+
+.form-control{
+    position: relative;
+    margin: 20px 0 40px;
+    width: 300px;
+}
+
+.form-control input{
+    background-color: transparent;
+    border: 0;
+    border-bottom: 2px white solid;
+    display: block;
+    width: 100%;
+    padding: 15px 0;
+    font-size: 18px;
+    color: rgb(27, 26, 26);
+}
+
+.form-control input:focus,
+.form-control input:valid{
+    outline: 0;
+    border-bottom-color:  #2bafa0;
+}
+
+.form-control label{
+    position: absolute;
+    top: 15px;
+    left: 0;
+    pointer-events: none;
+    margin-bottom: 30px;
+}
+
+.form-control label span{
+  display: inline-block;
+  font-size: 18px;
+  min-width: 5px;
+  transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.form-control input:focus + label span,
+.form-control input:valid + label span {
+  color: rgb(27, 26, 26) ;
+  transform: translateY(-30px);
+}
