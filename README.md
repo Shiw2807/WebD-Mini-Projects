@@ -5,7 +5,7 @@ contains mini projects based on important concepts of web devlopment
 | ------------- | ------------- |
 | Expanding Cards | Live Demo   |
 | Progress Steps  | Live Demo   |
-| Rotating Navigation | Live Demo |
+| Rotating Navigation | [Live Demo](https://day03-rotating-navigation-animation.netlify.app/) |
 | Hidden Search | Live Demo  |
 | Blurry Loading | Live Demo | 
 | Scroll Animation | Live Demo  |
