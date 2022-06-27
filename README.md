@@ -16,4 +16,10 @@ contains mini projects based on important concepts of web devlopment
 | Dad Jokes | Live Demo |
 | CSS Card  | Live Demo |
 | 3d Foldable Card | Live Demo |
+| Virtual Keyboard| Live Demo |
+| Event Keycodes| Live Demo |
+| Faqs Collapse | Live Demo |
+| Increment Counter | LiveDemo |
+| Drink Water | Live Demo |
+
 
