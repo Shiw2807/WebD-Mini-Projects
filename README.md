@@ -19,7 +19,7 @@ contains mini projects based on important concepts of web devlopment
 | Virtual Keyboard| [Live Demo](https://day14-virtual-keyboard.netlify.app/) |
 | Event Keycodes| [Live Demo](https://day15-event-keycodes.netlify.app/) |
 | Faqs Collapse | [Live Demo](https://day16-faqs-collapse.netlify.app/) |
-| Increment Counter | [LiveDemo)](https://day17-increment-counter.netlify.app/ |
+| Increment Counter | [LiveDemo](https://day17-increment-counter.netlify.app/) |
 | Drink Water | [Live Demo] |
 
 
