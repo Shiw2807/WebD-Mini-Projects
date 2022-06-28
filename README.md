@@ -1,9 +1,9 @@
 # WebD-Mini-Projects
 contains mini projects based on important concepts of web devlopment
 
-| Mini Project  | Site          |
-| ------------- | ------------- |
-| [Expanding Cards](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day01_Expanding%20Cards) | [Live Demo](https://day01-expanding-cardss.netlify.app/)   |
+|#| Mini Project  | Site          |
+|1| ------------- | ------------- |
+|2| [Expanding Cards](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day01_Expanding%20Cards) | [Live Demo](https://day01-expanding-cardss.netlify.app/)   |
 | [Progress Steps](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day02_Progress%20Steps)  | [Live Demo](https://day02-progress-steps.netlify.app/)   |
 | [Rotating Navigation](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day03_RotatingNavigation) | [Live Demo](https://day03-rotating-navigation-animation.netlify.app/) |
 | [Hidden Search](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day04_HiddenSearch) | [Live Demo](https://day04-hidden-search.netlify.app/)  |
@@ -16,10 +16,10 @@ contains mini projects based on important concepts of web devlopment
 | [Dad Jokes](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day11_DadJokes) | [Live Demo](https://day11-dad-jokes.netlify.app/) |
 | [CSS Card](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day12_CSS_Card)  | [Live Demo](https://day12-css-card.netlify.app/) |
 | [3d Foldable Card](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day13_3d_Foldable_Card) | [Live Demo](https://day13-3d-foldable-card.netlify.app/) |
-| [Virtual Keyboard] | [Live Demo](https://day14-virtual-keyboard.netlify.app/) |
+| [Virtual Keyboard](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day14_Virtual_Keyboard) | [Live Demo](https://day14-virtual-keyboard.netlify.app/) |
 | [Event Keycodes](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day15_Event_Keycodes) | [Live Demo](https://day15-event-keycodes.netlify.app/) |
 | [Faqs Collapse](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day16_Faqs_collapse)  | [Live Demo](https://day16-faqs-collapse.netlify.app/) |
 | [Increment Counter](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day17_Incrementing_Counter) | [LiveDemo](https://day17-increment-counter.netlify.app/) |
-| [Drink Water] | [Live Demo](https://day18-drink-water.netlify.app/) |
+| [Drink Water](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day18_Drink_Water) | [Live Demo](https://day18-drink-water.netlify.app/) |
 
 
