@@ -13,7 +13,6 @@ S.No | Mini Project  | Site          |
 |8 | [Form Input Wave](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day08_Form_Input_Wave) | [Live Demo](https://day08-form-inputt-wave.netlify.app/) |
 |9 | [Animated Navigation](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day09_Animated_Navigation) | [Live Demo](https://day09-animated-navigation.netlify.app/) |
 |10| [Playlist Carousal](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day10_Carousal) | [Live Demo](https://day10-playlist-carousal.netlify.app/) |
-
 |11 | [Dad Jokes](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day11_DadJokes) | [Live Demo](https://day11-dad-jokes.netlify.app/) |
 |12 | [CSS Card](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day12_CSS_Card)  | [Live Demo](https://day12-css-card.netlify.app/) |
 |13 | [3d Foldable Card](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day13_3d_Foldable_Card) | [Live Demo](https://day13-3d-foldable-card.netlify.app/) |
