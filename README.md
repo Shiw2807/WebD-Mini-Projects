@@ -1,5 +1,5 @@
 # WebD-Mini-Projects
-This repositery is a collection of mini projects based on the various important concepts of Web Development. To access them, have a look at the table:
+This repository is a collection of mini projects based on the various important concepts of Web Development. To access them, have a look at the table:
 
 S.No | Mini Project  | Site          |
 |----| ------------- | ------------- |
