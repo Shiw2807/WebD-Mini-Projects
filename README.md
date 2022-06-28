@@ -1,8 +1,8 @@
 # WebD-Mini-Projects
 contains mini projects based on important concepts of web devlopment
 
-| Mini Project  | Site          |
-| ------------- | ------------- |
+S.No | Mini Project  | Site          |
+|----| ------------- | ------------- |
 | [Expanding Cards](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day01_Expanding%20Cards) | [Live Demo](https://day01-expanding-cardss.netlify.app/)   |
 | [Progress Steps](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day02_Progress%20Steps)  | [Live Demo](https://day02-progress-steps.netlify.app/)   |
 | [Rotating Navigation](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day03_RotatingNavigation) | [Live Demo](https://day03-rotating-navigation-animation.netlify.app/) |
