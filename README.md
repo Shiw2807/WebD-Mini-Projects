@@ -21,5 +21,5 @@ S.No | Mini Project  | Site          |
 |16 | [Faqs Collapse](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day16_Faqs_collapse)  | [Live Demo](https://day16-faqs-collapse.netlify.app/) |
 |17| [Increment Counter](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day17_Incrementing_Counter) | [LiveDemo](https://day17-increment-counter.netlify.app/) |
 |18 | [Drink Water](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day18_Drink_Water) | [Live Demo](https://day18-drink-water.netlify.app/) |
-|19| [Background Slider](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day19_Background_Slider)| [Live Demo] (https://day19-background-slider.netlify.app/)|
+|19| [Background Slider](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day19_Background_Slider)| [Live Demo](https://day19-background-slider.netlify.app/)|
 
