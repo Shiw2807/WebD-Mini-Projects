@@ -23,3 +23,6 @@ S.No | Mini Project  | Site          |
 |18 | [Drink Water](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day18_Drink_Water) | [Live Demo](https://day18-drink-water.netlify.app/) |
 |19| [Background Slider](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day19_Background_Slider)| [Live Demo](https://day19-background-slider.netlify.app/)|
 |20| [Theme Clock](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day20_Theme_Clock)| [Live Demo](https://day20-theme-clock.netlify.app/)|
+|21| [Double Vertical Slider ](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day20_Theme_Clock)| [Live Demo](https://day20-theme-clock.netlify.app/)|
+|22| [Drawing App](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day20_Theme_Clock)| [Live Demo](https://day20-theme-clock.netlify.app/)|
+|23| [Github Profile Search](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day20_Theme_Clock)| [Live Demo](https://day20-theme-clock.netlify.app/)|
