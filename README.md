@@ -27,3 +27,4 @@ S.No | Mini Project  | Site          |
 |22| [Drawing App](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day22_Drawing_App)| [Live Demo](https://day22-drawning-app.netlify.app/)|
 |23| [Github Profile Search](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day23_Github_profile_search)| [Live Demo](https://github-profile-searcherr.netlify.app/)|
 |24| [Animated Countdown](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day24_Animated_Countdown) | [Live Demo](https://day24-animated-countdown.netlify.app/)|
+|25| [ Testimonial Switcher](https://github.com/Shiw2807/WebD-Mini-Projects/tree/main/Day25_Testimonial_Switcher) | [Live Demo]()
